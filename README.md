@@ -1,7 +1,8 @@
 # Prediction of LOS
 
 Дерево проекта:
-
+'''
+python
 Prediction-of-LOS/
 |-- models.py
 |-- encoders.py
@@ -37,3 +38,4 @@ Prediction-of-LOS/
 |   |   |-- DIAGNOSES_ICD.csv
 |   |   |-- PATIENTS.csv
 |   |   |-- ICUSTAYS.csv
+'''
