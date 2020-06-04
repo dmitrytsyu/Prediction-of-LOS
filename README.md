@@ -14,3 +14,8 @@ Prediction-of-LOS/<br />
 |-- raw_data/  
 |||||-- images/  
 |||||-- mimic-iii-clinical-database-1.4/  
+
+# Последовательность файлов
+
+1. 
+2. 
