@@ -27,7 +27,7 @@ Prediction-of-LOS/<br />
 9. Наконец, результаты эксперимента можно просмотреть в файле Experiment_results.ipynb.
 
 
-# Последовательность файлов
+# Последовательность файлов для воспроизведения эксперимента
 
 1. Data_preprocessing.ipynb
 2. experiment.py
