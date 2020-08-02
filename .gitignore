@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 # My data
-raw_data/mimic-iii-clinical-database-1.4/
+raw_data/mimic-iii-clinical-database-1.4/*
+.DS_Store
