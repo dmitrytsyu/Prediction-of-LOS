@@ -52,6 +52,7 @@ Prediction-of-LOS/<br />
 2. experiment.py
 3. Experiment_results.ipynb
 
+<<<<<<< HEAD
 
 ## Результаты на тестовой выборке
 
@@ -108,6 +109,8 @@ Prediction-of-LOS/<br />
 
 
 
+=======
+>>>>>>> 7880fb99b4d0cfff90ab374656b6ab61e3e2f5b1
 ### Основные источники
 1. [Predicting hospital length-of-stay at time of admission](https://towardsdatascience.com/predicting-hospital-length-of-stay-at-time-of-admission-55dfdfe69598) [git](https://github.com/DenisVorotyntsev/CategoricalEncodingBenchmark)
 2. [Benchmarking Categorical Encoders](https://towardsdatascience.com/benchmarking-categorical-encoders-9c322bd77ee8) [git](https://towardsdatascience.com/predicting-hospital-length-of-stay-at-time-of-admission-55dfdfe69598)
